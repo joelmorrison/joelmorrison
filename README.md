@@ -1,26 +1,26 @@
-<a href="https://joelmorrison121-cpu.github.io/"><img src="assets/banner.png" alt="Joel Morrison: Computer Science, DCU, Dublin. Curiosity into code. Ideas into useful things." width="100%"></a>
+<a href="https://joelmorrison.github.io/"><img src="assets/banner.png" alt="Joel Morrison: Computer Science, DCU, Dublin. Curiosity into code. Ideas into useful things." width="100%"></a>
 
 I'm a second-year Computer Science student at DCU who builds things to understand how they work, from neural networks that learn to drive to web apps made at hackathons. I'm drawn to Python, practical AI and interfaces that feel considered.
 
-**[Portfolio](https://joelmorrison121-cpu.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/joel-morrison-16a304389/)** · **[Email](mailto:joelmorrison121@gmail.com)**
+**[Portfolio](https://joelmorrison.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/joel-morrison-16a304389/)** · **[Email](mailto:joelmorrison121@gmail.com)**
 
 <br>
 
-<a href="https://github.com/joelmorrison121-cpu/crash-course"><img src="assets/from-failure-to-first-lap.png" alt="From failure to first lap: generation 1 drivers crash at random, generation 13 clears the first corner, generation 16 completes a full lap." width="100%"></a>
+<a href="https://github.com/joelmorrison/crash-course"><img src="assets/from-failure-to-first-lap.png" alt="From failure to first lap: generation 1 drivers crash at random, generation 13 clears the first corner, generation 16 completes a full lap." width="100%"></a>
 
-<sub>**[Crash Course](https://github.com/joelmorrison121-cpu/crash-course)**: a Python racing game where 30 neural-network drivers per generation learn by selection and mutation. Four tracks, a race-the-champion mode, and experiments on tracks the drivers have never seen. [Watch the demo ↗](https://joelmorrison121-cpu.github.io/crash-course.html)</sub>
+<sub>**[Crash Course](https://github.com/joelmorrison/crash-course)**: a Python racing game where 30 neural-network drivers per generation learn by selection and mutation. Four tracks, a race-the-champion mode, and experiments on tracks the drivers have never seen. [Watch the demo ↗](https://joelmorrison.github.io/#crash-course)</sub>
 
 <br>
 
 <table>
   <tr>
-    <td width="33%"><a href="https://github.com/joelmorrison121-cpu/crash-course"><img src="assets/cover-crash-course.png" alt="Crash Course: neural-network drivers that learn to race" width="100%"></a></td>
-    <td width="33%"><a href="https://joelmorrison121-cpu.github.io/"><img src="assets/cover-portfolio.png" alt="Portfolio: hand-built, warm and minimal" width="100%"></a></td>
+    <td width="33%"><a href="https://github.com/joelmorrison/crash-course"><img src="assets/cover-crash-course.png" alt="Crash Course: neural-network drivers that learn to race" width="100%"></a></td>
+    <td width="33%"><a href="https://joelmorrison.github.io/"><img src="assets/cover-portfolio.png" alt="Portfolio: hand-built, warm and minimal" width="100%"></a></td>
     <td width="33%"><a href="https://splitpay-pzjgc2pw.manus.space"><img src="assets/cover-split.png" alt="Split: one bill, a payment link each" width="100%"></a></td>
   </tr>
   <tr>
-    <td valign="top"><sub>Python · Pygame · neuroevolution.<br><a href="https://github.com/joelmorrison121-cpu/crash-course">Code</a> · <a href="https://joelmorrison121-cpu.github.io/crash-course.html">Build notes</a></sub></td>
-    <td valign="top"><sub>HTML, CSS and JavaScript with a WebGL ASCII background.<br><a href="https://joelmorrison121-cpu.github.io/">Live site</a> · <a href="https://github.com/joelmorrison121-cpu/joelmorrison121-cpu.github.io">Code</a></sub></td>
+    <td valign="top"><sub>Python · Pygame · neuroevolution.<br><a href="https://github.com/joelmorrison/crash-course">Code</a> · <a href="https://joelmorrison.github.io/#crash-course">Build notes</a></sub></td>
+    <td valign="top"><sub>Hand-built HTML, CSS and JavaScript. The hero network is woven from Crash Course's real weights.<br><a href="https://joelmorrison.github.io/">Live site</a> · <a href="https://github.com/joelmorrison/joelmorrison.github.io">Code</a></sub></td>
     <td valign="top"><sub>Hackathon bill-splitter. I built the React frontend.<br><a href="https://splitpay-pzjgc2pw.manus.space">Frontend demo</a></sub></td>
   </tr>
 </table>
